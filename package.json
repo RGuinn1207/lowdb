@@ -45,9 +45,9 @@
     "steno": "^2.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.0.1",
+    "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^12.0.1",
-    "@commitlint/prompt-cli": "^12.0.1",
+    "@commitlint/prompt-cli": "^17.6.1",
     "@sindresorhus/tsconfig": "^1.0.2",
     "@types/lodash": "^4.14.168",
     "@types/node": "^15.0.3",
